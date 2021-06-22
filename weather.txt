@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Status for: SURAT	22 Jun 2021 | 10:37:22 PM
+-------------------------------------------------------------
+Current Temprature is:  deg C
+Current Weather Description: overcast clouds
+Current Humidity: 74%
+Current Wind Speed: 3.09kmph
